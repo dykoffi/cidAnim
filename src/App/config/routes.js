@@ -1,13 +1,13 @@
 import React from "react"
 import { Switch, Route } from "react-router-dom"
 
-import Home from "../pages/Home"
+import Home from "../pages/home"
 import NotFound from "../pages/NotFound"
 
 const Routes = () => {
     return (
         <Switch>
-            <Route path="/" component={Home} />
+            <Route exact path="/" component={Home} />
             <Route component={NotFound} />
         </Switch>
     )
