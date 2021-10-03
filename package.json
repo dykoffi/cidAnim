@@ -1,10 +1,10 @@
 {
-  "name": "ciqlpage",
+  "name": "interface",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
-    "@headlessui/react": "^1.4.0",
+    "@fluentui/react": "^8.36.0",
     "@heroicons/react": "^1.0.4",
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/jest-dom": "^5.11.4",
