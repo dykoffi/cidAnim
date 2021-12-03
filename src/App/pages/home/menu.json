@@ -1,0 +1,32 @@
+[
+    {
+        "titre": "Equipes",
+        "desc": "Des troupeaux qui travaillent ensemble",
+        "img": "equip",
+        "color": "#92737B"
+    },
+    {
+        "titre": "Projets",
+        "desc": "Des projets Innovants à forte valeur ajoutée",
+        "img": "projets",
+        "color": "#C79755"
+    },
+    {
+        "titre": "Membres",
+        "desc": "Liste et descriptions des membres",
+        "img": "membres",
+        "color": "#3955a3"
+    },
+    {
+        "titre": "Documents",
+        "desc": "Références et documentations de nos équipes",
+        "img": "doc",
+        "color": "#C5C9BE"
+    },
+    {
+        "titre": "Célébrations",
+        "desc": "Nos moments de joies et de célébrations",
+        "img": "cel",
+        "color": "#31752f"
+    }
+]
